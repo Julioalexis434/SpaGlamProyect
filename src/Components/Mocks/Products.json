@@ -1,0 +1,84 @@
+[
+    {
+      "img": "/product1.jpg",
+      "title": "Kit Rapunzel:",
+      "info": "Muchos procedimientos químicos como los tintes, las keratinas, las decoloraciones, entre otros, inicialmente no aparentan causar ningún daño mayor en tu cabello, pero con el pasar del tiempo se puede evidenciar un daño profundo en tu cabello. Para cabello graso o mixto: Se recomienda usar por las noches. Aplicar de raíz a puntas, dejar actuar de 20 a 30 minutos y enjuagar con el shampoo de tu elección.",
+      "price": 49.999,
+      "id": 1,
+      "riesgo": [
+        {
+          "title": "Riesgo para la salud",
+          "info": "Este producto bajo condiciones normales de utilización no representa un peligro para la salud o seguridad de las personas; sin embargo, se recomienda evitar contacto con los ojos, o en caso de que suceda, enjuagar con abundante agua."
+        }
+      ],
+      "use": [
+        {
+          "title": "Terapia capilar de cebolla.",
+          "info": "Para cabellos secos o normales: Aplicar en el cabello limpio y seco de raíz a puntas y dejar actuar de 20 a 30 minutos."
+        },
+        {
+          "title": "Tratamiento / crema de cebolla.",
+          "info": "Lavar muy bien el cabello antes de utilizar, aplicar el tratamiento de medios a puntas, dejar reposar de 10 a 15 minutos y enjuagar."
+        },
+        {
+          "title": "Sérum sellador de puntas de cannabis.",
+          "info": "Tomar una pequeña cantidad en las manos, frotarlas entre sí y aplicar en cabello húmedo o seco."
+        }
+      ]
+    },
+    {
+      "img": "/product2.jpg",
+      "title": "Kit Repara Tu Cabello:",
+      "info": "Muchos procedimientos químicos como los tintes, las keratinas, las decoloraciones, entre otros, inicialmente no aparentan causar ningún daño mayor en tu cabello, pero con el pasar del tiempo se puede evidenciar un daño profundo en tu cabello, reparando tu cabello desde la raíz hasta las puntas.",
+      "price": 49.999,
+      "id": 2,
+      "riesgo": [
+        {
+          "title": "Riesgo para la salud",
+          "info": "Este producto bajo condiciones normales de utilización no representa un peligro para la salud o seguridad de las personas; sin embargo, se recomienda evitar contacto con los ojos, o en caso de que suceda, enjuagar con abundante agua."
+        }
+      ],
+      "use": [
+        {
+          "title": "Tratamiento repolarizador de aguacate ",
+          "info": "Desenredar el cabello seco y dividirlo en 4 partes. Aplicar de raíz a puntas en cada segmento, sin olvidar ninguna parte del cabello. Dejar aplicado durante una hora mínimo. Lavar el cabello dos veces con shampoo de preferencia. Por último, enjuagar con abundante agua fría hasta retirar el producto en su totalidad."
+        },
+        {
+          "title": "Sérum de argán",
+          "info": "Tomar una pequeña cantidad en las manos, frotarlas entre sí y aplicar en cabello húmedo o seco."
+        },
+        {
+          "title": "Gomitas de pectina y biotina",
+          "info": "1 goma diaria, masticarlas completamente antes de ingerir."
+        }
+      ]
+    },
+    {
+      "img": "/product3.jpg",
+      "title": "Kit Liso Perfecto & Control De Grasa:",
+      "info": "Es un kit diseñado para reparar las fibras del cabello, para nutrirlo desde la raíz dándole un aspecto regenerado, para controlar el frizz, para regular la grasa y también para sellar las puntas abiertas. Además, disminuye la necesidad de utilizar herramientas con calor que empleamos para moldearlo como la plancha o el secador.",
+      "price": 49.999,
+      "id": 3,
+      "riesgo": [
+        {
+          "title": "Riesgo para la salud",
+          "info": "Este producto bajo condiciones normales de utilización no representa un peligro para la salud o seguridad de las personas; sin embargo, se recomienda evitar contacto con los ojos, o en caso de que suceda, enjuagar con abundante agua."
+        }
+      ],
+      "use": [
+        {
+          "title": "Tratamiento con keratina: ",
+          "info": "Aplicar en el cabello de medios a puntas y dejar actuar por 40 minutos, después enjuagar con abundante agua y con el shampoo de tu elección."
+        },
+        {
+          "title": "Tratamiento con trigo:",
+          "info": "Aplicar en el cabello limpio y seco de raíz a puntas y dejar actuar por 40 minutos, después enjuagar con abundante agua y con el shampoo de tu elección."
+        },
+        {
+          "title": "Termo protector:",
+          "info": "Aplicar de medios a puntas en el cabello húmedo o seco, especialmente si vas a utilizar calor en tu cabello (plancha, secador, rizador, etc.)"
+        }
+      ]
+    }
+  ]
+  

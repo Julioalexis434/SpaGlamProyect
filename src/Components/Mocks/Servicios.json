@@ -1,0 +1,127 @@
+[
+    {
+      "img": "/cejas.jpg",
+      "title": "Depilación de cejas más sombreado:",
+      "description": "Se adecua las cejas realizando un diseño dependiendo de su tipo de rostro para resaltarlo.",
+      "info": "La depilación se realiza de tres maneras diferentes, las cuales son: cera, hilo y cuchilla para que el cliente pueda elegir el método que desee. El sombreado es una técnica que permite la duración del tinte semipermanente por un periodo de tiempo más largo.",
+      "id": 1,
+      "price": "34.999",
+      "careInfo": [
+        {
+          "title": "Cuidados:",
+          "info": "Se debe tener mucho cuidado con el agua, aceites y cremas ya que un lavado brusco o exceso de estos productos puede hacer que el sombreado no dure."
+        },
+        {
+          "title": "Beneficios:",
+          "info": "Dan forma y definición a las cejas, creando un aspecto más completo y atractivo."
+        },
+        {
+          "title": "Duración:",
+          "info": "Esto puede variar, pero generalmente se realiza cada 3-4 semanas."
+        }
+      ]
+    },
+    {
+      "img": "/pestañas.jpg",
+      "title": "Pestañas pelo a pelo:",
+      "description": "Resalta la mirada con los diferentes efectos y tamaños de pestañas.",
+      "info": "Es un procedimiento donde se utilizan varios efectos en los cuales el pelo se adhiere desde una corta distancia de la raíz de la pestaña natural.",
+      "id": 2,
+      "price": "69.999",
+      "careInfo": [
+        {
+          "title": "Cuidados",
+          "info": "Se debe tener cuidado con productos grasosos, saunas, agua tibia, pestañina, no frotar los ojos de forma brusca."
+        },
+        {
+          "title": "Beneficios",
+          "info": "Proporcionan un aspecto más natural, aportan crecimiento a la pestaña natural."
+        },
+        {
+          "title": "Duración:",
+          "info": "Se debe realizar un retoque cada 15 o 20 días."
+        }
+      ]
+    },
+    {
+      "img": "/maquillaje.jpg",
+      "title": "Maquillaje para toda ocasión:",
+      "description": "Destaca la belleza y facciones del rostro.",
+      "info": "Se manejan varias técnicas profesionales de maquillaje para que se ajusten a lo que desee el cliente y lograr un equilibrio con el look que se va a utilizar.",
+      "id": 3,
+      "price": "99.999",
+      "careInfo": [
+        {
+          "title": "Cuidado",
+          "info": "Se debe ser consciente de que se aplican productos que no pueden ser mojados, así mismo tocarse excesivamente el rostro puede crear un efecto cuarteado de la piel."
+        }
+      ]
+    },
+    {
+      "img": "/lifting.jpg",
+      "title": "Lifting de pestañas:",
+      "description": "Este es un procedimiento que alarga y crea una ligera curva hacia arriba de manera natural y duradera, consiguiendo mayor longitud y espesor.",
+      "info": "Para aquellas que tienen las pestañas medias o largas, rectas o sin forma, y quieren conseguir un resultado natural, ¡es la opción perfecta!",
+      "id": 4,
+      "price": "69.999",
+      "careInfo": [
+        {
+          "title": "Cuidados:",
+          "info": "Evitar el agua caliente, no frotar los ojos, y evitar el uso de pestañina durante las primeras 24 horas."
+        },
+        {
+          "title": "Beneficios:",
+          "info": "Pestañas más largas, curvadas y con apariencia más voluminosa, sin necesidad de usar pestañina o pestañas postizas."
+        },
+        {
+          "title": "Nota",
+          "info": "Ten en cuenta que el lifting de pestañas es un procedimiento suave que no maltrata tus pestañas, tiene una duración aproximada entre uno y tres meses, el efecto terminará cuando tus pestañas naturales muden por completo y crezcan lisas de nuevo, en este punto, puedes volverte a realizar el procedimiento."
+        }
+      ]
+    },
+    {
+      "img": "/Laminado.jpg",
+      "title": "Laminado de cejas:",
+      "description": "También es conocido como planchado de cejas, esta técnica resalta, define, engrosa, alisa y direcciona el vello de las cejas.",
+      "info": "Procedimiento se hace diseño, sombreado con henna, laminado y depilación hindú.",
+      "id": 5,
+      "price": "34.999",
+      "careInfo": [
+        {
+          "title": "Cuidados:",
+          "info": "Evitar frotarlas y usar productos suaves para limpiarlas."
+        },
+        {
+          "title": "Beneficios:",
+          "info": "Apariencia más definida, cejas más ordenadas y un aspecto más pulido en general."
+        },
+        {
+          "title": "Nota",
+          "info": "Laminado de 1 mes a 2 meses, la henna que se aplica tiene una duración de 8 a 15 días."
+        }
+      ]
+    },
+    {
+      "img": "/limpieza.jpg",
+      "title": "Limpieza facial:",
+      "description": "La limpieza facial profunda es un tratamiento que busca mejorar la salud y el aspecto de la piel de tu rostro, este tratamiento es un procedimiento no invasivo, que generalmente es realizado por una profesional en cosmetología o estética.",
+      "info": "Una limpieza facial profunda permite que la piel respire y se libre de todo tipo de suciedad, manteniendo un aspecto saludable, estimulando la producción de colágeno, elastina y reticulina de manera natural.",
+      "id": 6,
+      "price": "99.999",
+      "careInfo": [
+        {
+          "title": "Cuidados:",
+          "info": "Mantener la piel hidratada, evitar la exposición directa al sol, no tocar o frotar la piel con fuerza y seguir una rutina regular de cuidado facial."
+        },
+        {
+          "title": "Beneficios:",
+          "info": "Eliminación de impurezas, la reducción del exceso de grasa, mejora la textura de la piel, y da un aspecto más radiante y saludable."
+        },
+        {
+          "title": "Duración:",
+          "info": "Se recomienda hacer una limpieza facial profunda cada 4-6 semanas para mantener la piel en buen estado y prevenir problemas de envejecimiento prematuro."
+        }
+      ]
+    }
+  ]
+  
